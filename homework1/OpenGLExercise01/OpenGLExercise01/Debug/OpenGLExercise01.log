@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\14501\OpenGLsource\repos\OpenGLExercise01\OpenGLExercise01\main.cpp(10,20): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\14501\OpenGLsource\repos\OpenGLExercise01\OpenGLExercise01\main.cpp(34,17): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\14501\OpenGLsource\repos\OpenGLExercise01\OpenGLExercise01\main.cpp(36,39): warning C4244: “参数”: 从“double”转换到“GLclampf”，可能丢失数据
+C:\Users\14501\OpenGLsource\repos\OpenGLExercise01\OpenGLExercise01\main.cpp(36,21): warning C4244: “参数”: 从“double”转换到“GLclampf”，可能丢失数据
+C:\Users\14501\OpenGLsource\repos\OpenGLExercise01\OpenGLExercise01\main.cpp(70,11): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\14501\OpenGLsource\repos\OpenGLExercise01\OpenGLExercise01\main.cpp(71,11): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\14501\OpenGLsource\repos\OpenGLExercise01\OpenGLExercise01\main.cpp(111,15): warning C4244: “初始化”: 从“GLfloat”转换到“GLint”，可能丢失数据
+C:\Users\14501\OpenGLsource\repos\OpenGLExercise01\OpenGLExercise01\main.cpp(112,15): warning C4244: “初始化”: 从“GLfloat”转换到“GLint”，可能丢失数据
+C:\Users\14501\OpenGLsource\repos\OpenGLExercise01\OpenGLExercise01\main.cpp(116,9): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\14501\OpenGLsource\repos\OpenGLExercise01\OpenGLExercise01\main.cpp(117,9): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+  OpenGLExercise01.vcxproj -> C:\Users\14501\OpenGLsource\repos\OpenGLExercise01\Debug\OpenGLExercise01.exe
